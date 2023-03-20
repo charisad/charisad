@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **React Js, Spring boot**
+- 💬 Ask me about **React Js, Spring boot, .NET Core**
 
 - 📫 How to reach me **adombaffourcollins@gmail.com**
 
