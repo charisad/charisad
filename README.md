@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/charis_collins" target="blank"><img src="https://img.shields.io/twitter/follow/charis_collins?logo=twitter&style=for-the-badge" alt="charis_collins" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes** 
+- 🌱 Exploring **Kubernetes** 
 
 - 📫 How to reach me **adombaffourcollins@gmail.com**
 
