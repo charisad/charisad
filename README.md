@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/charisad/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charisad" alt="charisad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/charis_collins" target="blank"><img src="https://img.shields.io/twitter/follow/charis_collins?logo=twitter&style=for-the-badge" alt="charis_collins" /></a> </p>
+<p align="left"> <a href="https://instagram.com/adom_collins224" target="blank"><img src="https://img.shields.io/twitter/follow/charis_collins?logo=twitter&style=for-the-badge" alt="charis_collins" /></a> </p>
 
 - 🌱 Exploring **Kubernetes** 
 
