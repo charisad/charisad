@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://instagram.com/adom_collins224" target="blank"><img src="https://img.shields.io/twitter/follow/charis_collins?logo=twitter&style=for-the-badge" alt="charis_collins" /></a> </p>
 
-- 🌱 Exploring **Kubernetes** 
+- 🌱 Exploring **OpenShift** 
 
 - 📫 How to reach me **adombaffourcollins@gmail.com**
 
