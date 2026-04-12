@@ -9,7 +9,7 @@
 
 - 🌱 Exploring **OpenShift** 
 
-- 📫 How to reach me **adombaffourcollins@gmail.com**
+- 📫 How to reach me **charisbaffour224@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
