@@ -20,11 +20,11 @@ Building and scaling high-availability fintech systems handling millions of tran
 ### 🛠️ Core Stack
 
 * **Cloud & Infra:** AWS, Kubernetes, Docker, Spacelift
-* **Observability:** New Relic, OpenTelemetry
-* **Backend:** Java, Python, C# (.NET)
+* **Observability:** New Relic, OpenTelemetry, Datadog, Grafana, Prometheus
+* **Backend:** Java, Python, Typescript
 * **Data:** PostgreSQL, MSSQL, OpenSearch, Redis (ElastiCache)
 * **Messaging:** Kafka, SQS
-* **CI/CD:** Jenkins, GitHub Actions
+* **CI/CD:** Jenkins, GitHub Actions, Azure Devops
 
 ---
 
