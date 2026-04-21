@@ -23,7 +23,7 @@ Building and scaling high-availability fintech systems handling millions of tran
 * **Observability:** New Relic, OpenTelemetry
 * **Backend:** Java, Python, C# (.NET)
 * **Data:** PostgreSQL, MSSQL, OpenSearch, Redis (ElastiCache)
-* **Messaging:** RabbitMQ
+* **Messaging:** Kafka, SQS
 * **CI/CD:** Jenkins, GitHub Actions
 
 ---
